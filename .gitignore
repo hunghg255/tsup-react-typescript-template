@@ -1,0 +1,6 @@
+.DS_Store
+node_modules/
+lib/
+examples/bundle.js
+package-lock.json
+examples/iife
